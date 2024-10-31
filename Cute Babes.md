@@ -1,6 +1,7 @@
 # Rinna's Cute Babes Pack
 
 *Pack Art:* Allure Queen Lv7
+
 *Description:* A babe per draw keeps the brick away
 
 - Tour Guide From the Underworld (UR)
