@@ -1,2 +1,2 @@
 # YGO-Packs
-List of Packs for YGO
+Rinna's List of Custom Packs for Sam's YGO Progression series - Stored here for convenience
